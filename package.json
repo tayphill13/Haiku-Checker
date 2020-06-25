@@ -1,5 +1,5 @@
 {
-  "name": "ping-pong",
+  "name": "sudoku-checker",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -9,7 +9,7 @@
     "lint": "eslint src/*.js"
   },
   "keywords": [],
-  "author": "Taylor Phillips",
+  "author": "Taylor Phillips & Noel Kirkland",
   "license": "ISC",
   "devDependencies": {
     "clean-webpack-plugin": "3.0.0",
